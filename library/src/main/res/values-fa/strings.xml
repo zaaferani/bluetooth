@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="toast_connection_lost">اتصال قطع شد</string>
+    <string name="toast_unable_to_connect">اتصال برقرار نمی شود</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="toast_unable_to_connect">unable to connect</string>
+    <string name="toast_connection_lost">connection lost</string>
+</resources>
